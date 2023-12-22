@@ -1,5 +1,6 @@
 ### Инструменты 🛠
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)
+![aiogram](https://img.shields.io/badge/aiogram-black?style=for-the-badge&logo=telegram)
 
 ### Установка 💾
 - Установка, используя пакетный менеджер pip
