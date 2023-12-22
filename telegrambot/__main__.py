@@ -34,7 +34,7 @@ async def start(message: Message, db: MDB) -> None:
 
 
 async def main() -> None:
-    bot = Bot("token", parse_mode=ParseMode.HTML)
+    bot = Bot("token",parse_mode=ParseMode.HTML)
     dp = Dispatcher()
 
     cluster = AsyncIOMotorClient(host="localhost", port=27017)
